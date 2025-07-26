@@ -320,4 +320,5 @@ Elabora un párrafo breve (máx. 8 líneas) donde reflexiones **por qué combina
 - Justifica cada proceso con tu análisis personal.  
 - Las entrevistas y codificaciones deben reflejar comprensión, no copiar ejemplos de internet.  
 - El ejercicio de card sorting debe ser diseñado desde cero.  
-- La reflexión crítica final debe ser redactada con tus propias palabras.  
+- La reflexión crítica final debe ser redactada con tus propias palabras.
+hora en la que termine 2:51
